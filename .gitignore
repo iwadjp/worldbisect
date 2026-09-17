@@ -1,0 +1,6 @@
+# Local snapshots and reports can contain environment values and file contents.
+world-*/
+*.snapshot/
+*.report.json
+env-*.json
+.env*

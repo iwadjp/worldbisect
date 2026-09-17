@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "pinnedCommit": "560df1555e7fb5cfe7254942e4dc54a16a3316f3",
+  "candidateCount": 5,
+  "predicateRuns": 30,
+  "minimalCause": ["ENV:USERNAME"],
+  "noiseExcluded": ["ENV:WB_NOISE_0", "ENV:WB_NOISE_1", "ENV:WB_NOISE_2", "ENV:WB_NOISE_3"],
+  "freshCause": "FAIL",
+  "freshWithoutCause": "PASS",
+  "residualReproduces": false,
+  "falseSuccess": false,
+  "scope": "Observed result within the captured differences and supplied predicate; not a root-cause proof or global minimum."
+}

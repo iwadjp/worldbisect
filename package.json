@@ -1,0 +1,12 @@
+{
+  "name": "worldbisect",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Reduce explicitly captured same-commit environment and Git-external world differences with fresh predicate replay.",
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test test/*.test.cjs",
+    "demo": "node demo/synthetic-demo.cjs"
+  }
+}
