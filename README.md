@@ -76,7 +76,7 @@ Environment values and included file contents are stored in snapshots, so treat 
 
 ## Development status
 
-The scratch prototype has passed its controlled dogfood, integration validation, Windows environment regression tests, and one public issue reproduction. Current status is **PUBLIC_READY_WITH_HUMAN_GATE**. The remaining gate is review of the PolyForm Noncommercial license choice and approval of the standalone export before any GitHub publication.
+The scratch prototype has passed its controlled dogfood, integration validation, Windows environment regression tests, and one public issue reproduction. Current status is **Public v0.1.0** — the initial public release, validated on the Windows/Node.js scope described above.
 
 Useful local checks:
 
